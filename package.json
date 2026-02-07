@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/HarshaRoy-133/Real_project5.git",
+  "homepage": "https://harshaRoy-133.github.io/Real_project5",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -11,7 +11,6 @@
     "preview": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
-
   },
   "dependencies": {
     "react": "^19.2.0",
