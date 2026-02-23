@@ -37,7 +37,7 @@
     height: 35px;
 }
 .app .section table tbody tr:nth-child(even){
-    background: whitesmoke;
+    background:whitesmoke;
 }
 .app .section table th,
 .app .section table td{
